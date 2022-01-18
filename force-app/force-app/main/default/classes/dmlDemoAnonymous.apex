@@ -1,0 +1,10 @@
+dmlDemo1.dmlMultipleRecordInsert_RIGHT();
+dmlDemo1.dmlMultipleRecordUpdate_right();
+dmlDemo1.dmlMultipleRecordDelete();
+dmlDemo1.dmlInsertDemo_stndObj();
+dmlDemo1.dmlInsertDemo_cstmObj()
+dmlDemo1.dmlUpdateDemo1_standObj();
+dmlDemo1.dmlDeleteDemo1_standObj();
+dmlDemo1.dmlUpdateDemo2();
+dmlDemo1.dmlUpdateDemo3();
+dmlDemo2.addmultipleSP();

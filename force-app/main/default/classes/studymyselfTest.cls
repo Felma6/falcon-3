@@ -1,0 +1,5 @@
+@ISTest
+
+public  Class studymyselfTest {
+  
+}
